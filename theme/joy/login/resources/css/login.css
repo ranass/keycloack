@@ -432,7 +432,7 @@ a.zocial  {
 }
 
 .login-pf-header {
-    display: none;
+    display: none !important;
 }
 
 .login-pf-page .login-pf-brand {
