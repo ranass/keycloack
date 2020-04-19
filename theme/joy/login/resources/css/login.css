@@ -504,6 +504,8 @@ a.zocial  {
 
 .login-pf-page .btn-primary {
     margin-top: 0;
+    background-color: white;
+    color: #1976d2;
 }
 
 .login-pf-page .list-view-pf .list-group-item {
