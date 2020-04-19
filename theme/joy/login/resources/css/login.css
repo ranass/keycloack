@@ -435,6 +435,10 @@ a.zocial  {
     display: none !important;
 }
 
+.login-pf-page {
+    color: #1976d2;
+}
+
 .login-pf-page .login-pf-brand {
   margin-top: 20px;
   max-width: 360px;
@@ -529,10 +533,6 @@ a.zocial  {
 #kc-register-form div.form-group:last-of-type,
 #kc-update-profile-form div.form-group:last-of-type {
     margin-bottom: 0px;
-}
-
-#kc-form-login {
-    color: #1976d2;
 }
 
 #kc-back {
