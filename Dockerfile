@@ -1,6 +1,7 @@
 FROM jboss/keycloak:latest
 
 COPY docker-entrypoint.sh /opt/jboss/tools
+COPY theme/joy /opt/jboss/keycloak/themes/joy
 COPY theme/sunrise /opt/jboss/keycloak/themes/sunrise
 COPY theme/address /opt/jboss/keycloak/themes/address
 COPY theme/logo-example /opt/jboss/keycloak/themes/logo-example
