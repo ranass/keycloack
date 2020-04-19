@@ -432,7 +432,7 @@ a.zocial  {
 }
 
 .login-pf-header {
-    color: #1976d2;
+    display: none;
 }
 
 .login-pf-page .login-pf-brand {
@@ -529,6 +529,10 @@ a.zocial  {
 #kc-register-form div.form-group:last-of-type,
 #kc-update-profile-form div.form-group:last-of-type {
     margin-bottom: 0px;
+}
+
+#kc-form-login {
+    color: #1976d2;
 }
 
 #kc-back {
